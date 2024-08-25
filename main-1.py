@@ -53,4 +53,4 @@ async def imagem(ctx):
 
     await ctx.send(embed=embed)
     
-bot.run("MTI2Nzk0MzQ0MjU2Mjk0NTEzNQ.GNEFk3.sPgN_vFbpy92iiCSZGUru0mdZL5zTPTM2thqac")
+bot.run("token")
